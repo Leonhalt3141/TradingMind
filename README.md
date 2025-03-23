@@ -1,1 +1,1 @@
-# trading_analysis
+# TradingMind
